@@ -1,0 +1,1 @@
+Esse é o meu novo projeto estudando javascript :)
