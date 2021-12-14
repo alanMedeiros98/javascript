@@ -1,5 +1,5 @@
 function addBola(){
-    let createDiv = document.getElementById('campo').createElement("div");
+    let createDiv = document.createElement("div");
     createDiv.setAttribute('class', 'ball');
 }
 
