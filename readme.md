@@ -4,5 +4,3 @@ color theme utilizado: "Bearded theme vivid black"
 fonte utilizada: "editor.fontFamily": "Fira Code"
 operadores utilizados: "editor.fontLigatures": true,
 fonte size utilizada: "14"
-
-atualizacao qualquer
