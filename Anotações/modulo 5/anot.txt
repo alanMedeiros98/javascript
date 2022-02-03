@@ -1,0 +1,4 @@
+JSON = javaScrip Object Notation
+
+JSON.parse() = ele vai converter uma string em formato JSON em um JSON de verdade
+JSON.stringify() = ele vai converter um JSON em uma string
