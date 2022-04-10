@@ -10,4 +10,4 @@
 
 //document.querySelector - ele seleciona pela id "#" ou pela class "."
 
-//document.querySelectorAll - ele vai elecionar todas as classes que tem e vai retornar uma array.
+//document.querySelectorAll - ele vai selecionar todas as classes que tem e vai retornar uma array.
